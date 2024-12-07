@@ -1,0 +1,25 @@
+[
+    {
+        "nomeProduto": "Ajax Full-Zip Sweatshirt",
+        "tamanho": "XS",
+        "cor": "Red",
+        "quantidade": 3
+
+    },
+
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "36",
+        "cor": "Blue",
+        "quantidade": 2
+
+    },
+
+    {
+        "nomeProduto": "Typhon Performance Fleece-lined Jacket",
+        "tamanho": "S",
+        "cor": "Black",
+        "quantidade": 4
+
+    }
+]
